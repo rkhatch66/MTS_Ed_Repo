@@ -1,1 +1,3 @@
-Restart-Computer -computername "localhost" -force
+$Computer = 'localhost'
+
+Restart-Computer -computername $computer -force
