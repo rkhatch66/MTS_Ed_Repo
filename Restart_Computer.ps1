@@ -1,3 +1,3 @@
 $Computer = 'localhost'
 
-Restart-Computer -computerndfdfame $computer -force
+Restart-Computer -computername dgeyt43 $computer -force
