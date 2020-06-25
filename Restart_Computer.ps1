@@ -1,0 +1,1 @@
+Restart-Computer -computername "localhost" -force
