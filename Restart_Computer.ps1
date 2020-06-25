@@ -1,3 +1,3 @@
-$Computer = 'localhost'
+$Computer = Read-Host "Enter Computer Name"
 
-Restart-Computer -computername dgeyt43 $computer -force
+Restart-Computer -computername $computer -force
